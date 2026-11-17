@@ -1,4 +1,4 @@
-# Claude Code — Audyt SEO z MCP Playwright
+# seo-audit-with-mcp-playwright
 
 Projekt nauki Claude Code zbudowany wokół konkretnego zadania: **automatyczny audyt SEO strony https://ntfy.pl/** przy użyciu MCP (Model Context Protocol) i Playwright do kontroli przeglądarki Chrome.
 
